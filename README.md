@@ -52,8 +52,8 @@ Postgraduate in Computer Science focused on scalable AI systems, backend infrast
 
 ## 🌐 Connect
 
-- LinkedIn: YOUR_LINKEDIN
-- Email: YOUR_EMAIL
+- LinkedIn: https://www.linkedin.com/in/jayrathod56/
+- Email: jayantirathod56@gmail.com
 
 <!--
 **JayRathod56/JayRathod56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
