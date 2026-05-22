@@ -44,15 +44,15 @@ Postgraduate in Computer Science focused on scalable AI systems, backend infrast
 
 ## 📊 GitHub Stats
 
-![Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=JayRathod56&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JayRathod56&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🌐 Connect
 
-- LinkedIn: https://www.linkedin.com/in/jayrathod56/
+- LinkedIn: [jayrathod56](https://www.linkedin.com/in/jayrathod56/)
 - Email: jayantirathod56@gmail.com
 
 <!--
