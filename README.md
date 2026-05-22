@@ -42,10 +42,11 @@ Postgraduate in Computer Science focused on scalable AI systems, backend infrast
 
 ---
 
+<!--
 ## 📊 GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=JayRathod56&theme=tokyonight)](https://git.io/streak-stats)
----
+-->
 
 ## 🌐 Connect
 
