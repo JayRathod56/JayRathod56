@@ -1,43 +1,60 @@
 # Hey, I'm Jay 👋
 
-Postgraduate in Computer Science focused on AI systems, backend infrastructure, embedded systems, and drones.
+### AI & Systems Engineer | Backend | Embedded Systems | FPV Drones
 
-## Tech Stack
-- Python
-- FastAPI
-- PostgreSQL
-- RabbitMQ
-- Celery / Celery Beat
-- PyTorch
-- CUDA
-- vLLM
-- Docker
-- Linux
-- ESP32
-- Git
+Postgraduate in Computer Science focused on scalable AI systems, backend infrastructure, embedded systems, and drones.
 
-## Interests & Domains
+---
+
+## 🚀 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=esphome&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 🧠 Current Focus
+
 - Scalable AI inference systems
 - Backend engineering
-- Embedded/IoT systems
+- Embedded & IoT systems
 - FPV drones and flight systems
+- CUDA/vLLM optimization
 
-## Hands-on Experience
+---
+
+## 🛠 Hands-on Experience
+
 - Built and configured FPV drones (TinyWhoop & 5-inch)
 - Worked with analog and digital FPV systems
 - Experience with FlySky and ELRS setups
 - Worked on ESP32-based systems
-- Contributed to a foot pressure sensor system involving multiplexers and USB-to-UART communication
+- Worked on foot pressure sensor systems involving multiplexers and USB-to-UART communication
 
-## Featured Projects
-- AI inference routing systems
-- ML-powered backend applications
-- Embedded systems projects
+---
 
-## Connect
-- LinkedIn
-- Email
-- 
+## 📊 GitHub Stats
+
+![Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+## 🌐 Connect
+
+- LinkedIn: YOUR_LINKEDIN
+- Email: YOUR_EMAIL
+
 <!--
 **JayRathod56/JayRathod56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
