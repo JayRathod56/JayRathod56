@@ -44,10 +44,7 @@ Postgraduate in Computer Science focused on scalable AI systems, backend infrast
 
 ## 📊 GitHub Stats
 
-![Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=JayRathod56&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JayRathod56&layout=compact&theme=tokyonight)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=JayRathod56&theme=tokyonight)](https://git.io/streak-stats)
 ---
 
 ## 🌐 Connect
